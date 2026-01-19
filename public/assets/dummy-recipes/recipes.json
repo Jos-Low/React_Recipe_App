@@ -1,0 +1,122 @@
+[
+	{
+		"title": "Lemon Herb Chicken",
+		"cuisine": "American",
+		"cookingTime": 35,
+		"difficulty": "easy",
+		"image": "food1.jpg",
+		"ingredients": [
+			"2 chicken breasts",
+			"2 tbsp olive oil",
+			"1 lemon, juiced",
+			"2 cloves garlic, minced",
+			"1 tsp dried oregano",
+			"Salt and pepper to taste"
+		],
+		"steps": [
+			"Preheat oven to 400°F (200°C).",
+			"Whisk olive oil, lemon juice, garlic, oregano, salt, and pepper.",
+			"Coat chicken with marinade and rest 10 minutes.",
+			"Bake on a sheet pan for 20-25 minutes until cooked through.",
+			"Rest 5 minutes before slicing."
+		]
+	},
+	{
+		"title": "Spicy Thai Basil Stir-Fry",
+		"cuisine": "Thai",
+		"cookingTime": 25,
+		"difficulty": "medium",
+		"image": "food2.jpg",
+		"ingredients": [
+			"1 lb ground chicken",
+			"3 cloves garlic, minced",
+			"2 shallots, sliced",
+			"2 tbsp soy sauce",
+			"1 tbsp fish sauce",
+			"1 tbsp oyster sauce",
+			"2 tsp chili paste",
+			"1 cup fresh basil leaves",
+			"1 red bell pepper, sliced"
+		],
+		"steps": [
+			"Heat oil in a wok over high heat.",
+			"Stir-fry garlic and shallots until fragrant.",
+			"Add ground chicken and cook until browned.",
+			"Stir in bell pepper, sauces, and chili paste; cook 2-3 minutes.",
+			"Fold in basil until wilted and serve over rice."
+		]
+	},
+	{
+		"title": "Margherita Flatbread",
+		"cuisine": "Italian",
+		"cookingTime": 20,
+		"difficulty": "easy",
+		"image": "food3.jpg",
+		"ingredients": [
+			"2 naan or flatbreads",
+			"1/2 cup pizza sauce",
+			"1 cup shredded mozzarella",
+			"8-10 cherry tomatoes, halved",
+			"Fresh basil leaves",
+			"1 tbsp olive oil",
+			"Salt and pepper to taste"
+		],
+		"steps": [
+			"Preheat oven to 425°F (220°C).",
+			"Brush flatbreads with olive oil and spread pizza sauce.",
+			"Top with mozzarella and tomatoes; season lightly.",
+			"Bake 8-10 minutes until cheese melts and edges crisp.",
+			"Finish with fresh basil and a drizzle of olive oil."
+		]
+	},
+	{
+		"title": "Vegetable Tikka Masala",
+		"cuisine": "Indian",
+		"cookingTime": 40,
+		"difficulty": "medium",
+		"image": "food4.jpg",
+		"ingredients": [
+			"1 onion, diced",
+			"3 cloves garlic, minced",
+			"1 tbsp ginger, minced",
+			"2 tbsp tikka masala paste",
+			"1 cup tomato puree",
+			"1 cup coconut milk",
+			"2 cups mixed vegetables (cauliflower, peas, carrots)",
+			"1 tbsp garam masala",
+			"Salt to taste",
+			"Fresh cilantro for garnish"
+		],
+		"steps": [
+			"Sauté onion, garlic, and ginger in oil until softened.",
+			"Stir in tikka masala paste and cook 1 minute.",
+			"Add tomato puree and simmer 5 minutes.",
+			"Add vegetables, coconut milk, and garam masala; simmer until tender.",
+			"Season with salt and garnish with cilantro."
+		]
+	},
+	{
+		"title": "Honey Soy Glazed Salmon",
+		"cuisine": "Japanese",
+		"cookingTime": 30,
+		"difficulty": "easy",
+		"image": "food5.jpg",
+		"ingredients": [
+			"4 salmon fillets",
+			"3 tbsp soy sauce",
+			"2 tbsp honey",
+			"1 tbsp rice vinegar",
+			"1 tsp sesame oil",
+			"2 cloves garlic, minced",
+			"1 tsp grated ginger",
+			"Sesame seeds and scallions for garnish"
+		],
+		"steps": [
+			"Whisk soy sauce, honey, rice vinegar, sesame oil, garlic, and ginger.",
+			"Marinate salmon 10-15 minutes.",
+			"Sear salmon in a hot skillet, skin-side down first.",
+			"Pour in marinade and cook until salmon is glazed and cooked through.",
+			"Garnish with sesame seeds and scallions; serve with rice."
+		]
+	}
+]

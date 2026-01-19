@@ -1,0 +1,22 @@
+.create-recipe-page {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  color: var(--text);
+}
+
+.create-recipe-header {
+  margin-bottom: 2rem;
+}
+
+.create-recipe-header h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--text);
+  margin: 0 0 0.25rem;
+}
+
+.create-recipe-header p {
+  color: var(--muted);
+  margin: 0;
+}

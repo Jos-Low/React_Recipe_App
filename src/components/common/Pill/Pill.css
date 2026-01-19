@@ -1,0 +1,14 @@
+.pill {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  border-radius: 9999px;
+  background-color: var(--accent);
+  color: var(--text);
+}
+
+.pill--muted {
+  background-color: var(--border);
+  color: var(--muted);
+}
